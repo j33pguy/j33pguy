@@ -1,6 +1,6 @@
 # j33pguy
 
-Hi, I'm Russ.....**Don't Panic.**
+Hi, I'm Russ.....**Don't Panic. Hack the Planet.**
 
 Infrastructure and automation — Go, Nix, and the plumbing nobody demos.
 
@@ -86,6 +86,15 @@ letters. A machine you can rebuild from a repo is a machine you never panic
 about. Memory that survives the crash means the crash is a reboot, not a loss.
 That's the whole philosophy in two words — it's on my terminal font, my
 wallpaper, and the front of MAGI's README. The Guide had it right.
+
+## And why "Hack the Planet"?
+
+Because *Hackers* (1995) got the spirit right even where it got the terminals
+wrong. Hack the Planet isn't about breaking in — it's the conviction that any
+system can be understood, and once you understand it, you can make it do
+something better. Don't Panic is how I run things; Hack the Planet is why I
+build them. One keeps the pager quiet. The other is the reason there's a repo
+here at all.
 
 ## Open questions
 
