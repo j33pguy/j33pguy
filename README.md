@@ -1,5 +1,7 @@
 # j33pguy
 
+**Don't Panic.**
+
 Russ. Infrastructure and automation — Go, Nix, and the plumbing nobody demos.
 
 Every repo here is a problem that started as a question I couldn't put down.
@@ -76,6 +78,14 @@ And when one breaks, I get to find out exactly why.
 Because I play games the way I run servers — eventually something gets
 automated. A few repos here are companion tooling for games I play;
 occupational hazard.
+
+## Why does everything around here say "Don't Panic"?
+
+Because it's the best engineering advice ever printed in large friendly
+letters. A machine you can rebuild from a repo is a machine you never panic
+about. Memory that survives the crash means the crash is a reboot, not a loss.
+That's the whole philosophy in two words — it's on my terminal font, my
+wallpaper, and the front of MAGI's README. The Guide had it right.
 
 ## Open questions
 
