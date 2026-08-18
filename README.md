@@ -1,8 +1,8 @@
 # j33pguy
 
-**Don't Panic.**
+Hi, I'm Russ.....**Don't Panic.**
 
-Russ. Infrastructure and automation — Go, Nix, and the plumbing nobody demos.
+Infrastructure and automation — Go, Nix, and the plumbing nobody demos.
 
 Every repo here is a problem that started as a question I couldn't put down.
 Most of them began with "wait, why is this manual?" and escalated. The one
