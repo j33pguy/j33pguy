@@ -68,10 +68,10 @@ And when one breaks, I get to find out exactly why.
 
 | | |
 |---|---|
-| [zsh](https://github.com/j33pguy/zsh) | powerlevel10k, homebrew integration |
-| [nvim](https://github.com/j33pguy/nvim) | lazy.nvim, go.nvim, telescope, neo-tree |
-| [tmux](https://github.com/j33pguy/tmux) | tpm, vi mode, catppuccin-inspired |
-| [fonts](https://github.com/j33pguy/fonts) | patched Nerd Fonts — MesloLGS NF Hitchhiker |
+| [zsh](https://github.com/j33pguy/zsh) | powerlevel10k, homebrew, zero panic |
+| [nvim](https://github.com/j33pguy/nvim) | lazy.nvim, go.nvim, telescope. mess with the best. |
+| [tmux](https://github.com/j33pguy/tmux) | tpm, vi mode, catppuccin-inspired. panes all the way down |
+| [fonts](https://github.com/j33pguy/fonts) | MesloLGS NF Hitchhiker — knows where its towel is |
 
 ## Why is there game tooling in here?
 
