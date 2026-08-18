@@ -10,6 +10,13 @@ Two operating rules. If I've done a thing by hand three times, I owe myself a
 CLI for it. And I'd rather understand *why* something works than just get it
 working today — small and weird this month beats big and polished never.
 
+## Why "j33pguy"?
+
+No Jeep in the driveway these days. The handle comes from my first one — the
+thing that taught me to follow a trail just to see where it goes. The vehicle
+went; the instinct didn't. Everything below is that instinct, pointed at
+software.
+
 ## Why does every AI session start from zero?
 
 This one wouldn't let go. Switch machines: amnesia. Switch providers: context
@@ -69,10 +76,6 @@ And when one breaks, I get to find out exactly why.
 Because I play games the way I run servers — eventually something gets
 automated. A few repos here are companion tooling for games I play;
 occupational hazard.
-
-The handle? No Jeep in the driveway these days. It comes from my first one —
-the thing that taught me to follow a trail just to see where it goes. The
-vehicle went; the instinct didn't.
 
 ## Open questions
 
