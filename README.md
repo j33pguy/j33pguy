@@ -2,7 +2,7 @@
 
 Hi, I'm Russ.....**Don't Panic. Hack the Planet.**
 
-Infrastructure and automation — Go, Nix, and the plumbing nobody demos.
+Infrastructure and automation — Go, Nix, Terraform, Ansible, and the plumbing nobody demos.
 
 Every repo here is a problem that started as a question I couldn't put down.
 Most of them began with "wait, why is this manual?" and escalated. The one
@@ -54,11 +54,13 @@ phoning home, no renting my own data back from someone.
 ## How did this box get like this?
 
 Every host here has to answer that question from a repo and nothing else —
-otherwise it's a liability, not a server. Golden images, declarative
-infrastructure, config management, secrets in an actual secrets manager
-instead of a `.env` file and a prayer. Those repos stay private, for the same
-reason you don't publish a map of your house — but the philosophy is the
-whole point. The day I can't answer is the day the box owns me instead.
+otherwise it's a liability, not a server. The stack is the usual suspects,
+run seriously: Proxmox underneath, Terraform describing what should exist,
+Ansible making it true, golden images so a rebuild is boring, secrets in an
+actual secrets manager instead of a `.env` file and a prayer. Those repos
+stay private — you don't publish a map of your house — but the tools aren't
+the secret; the layout is. The day I can't answer is the day the box owns me
+instead.
 
 ## How deep does a shell config go?
 
