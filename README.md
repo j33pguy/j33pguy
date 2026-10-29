@@ -1,6 +1,6 @@
 # j33pguy
 
-Hi, I'm Russ.....**Don't Panic. Hack the Planet.**
+Hi, I'm Russ Seaman. **Don't Panic. Hack the Planet.**
 
 Infrastructure and automation — Go, Nix, Terraform, Ansible, and the plumbing nobody demos.
 
@@ -74,6 +74,8 @@ And when one breaks, I get to find out exactly why.
 | [nvim](https://github.com/j33pguy/nvim) | lazy.nvim, go.nvim, telescope. mess with the best. |
 | [tmux](https://github.com/j33pguy/tmux) | tpm, vi mode, catppuccin-inspired. panes all the way down |
 | [fonts](https://github.com/j33pguy/fonts) | MesloLGS NF Hitchhiker — knows where its towel is |
+| [fastfetch](https://github.com/j33pguy/fastfetch) | pop-punk palette, DON'T PANIC logo |
+| [ranger](https://github.com/j33pguy/ranger) | pop_punk colorscheme, colored devicons |
 
 ## Why is there game tooling in here?
 
