@@ -1,6 +1,6 @@
 # j33pguy
 
-Hi, I'm Russ Seaman. **Don't Panic. Hack the Planet.**
+Hi, I'm Russ. **Don't Panic. Hack the Planet.**
 
 Infrastructure and automation — Go, Nix, Terraform, Ansible, and the plumbing nobody demos.
 
